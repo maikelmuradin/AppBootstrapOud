@@ -3,7 +3,8 @@
 <html>
 <head>
 <title><?php echo $page_title?></title>
-  <link rel="stylesheet" href="css/bootstrap3-3-7.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/mijnstijl.css">
 </head>
 <body>
 <nav class="navbar navbar-inverse">
@@ -13,9 +14,9 @@
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="home.php">Home</a></li>
-      <li><a href="#">Opzoeken</a></li>
-      <li><a href="#">Invoeren</a></li>
-      <li><a href="#">Bewerken</a></li>
+      <li><a href="#">VoorbeelLink</a></li>
+      <li><a href="#">VoorbeeldLink</a></li>
+      <li><a href="#">Contact</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li><a href="#"><span class="glyphicon glyphicon-user"></span> Registreren</a></li>

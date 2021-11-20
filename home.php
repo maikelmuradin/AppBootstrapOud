@@ -5,7 +5,7 @@ include('system/header.php');
 
 
   <div>
-    <h1>Opdracht Sessies</h1>   
+    <h1>Opdrachten PHP-HTML/CSS</h1>   
   </div>
   
   
