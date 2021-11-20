@@ -19,7 +19,7 @@
       <li><a href="#">Contact</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Registreren</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-out"></span> Uitloggen</a></li>
       <li><a href="inloggen.php"><span class="glyphicon glyphicon-log-in"></span> Inloggen</a></li>
        <li><a><span class="glyphicon" welcome></span> <u>U bent niet ingelogd!</u></a></li>     
     </ul>
