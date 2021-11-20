@@ -1,10 +1,10 @@
 <?php
 $page_title="Uitloggen";
-include('header.php');
+include('system/header.php');
 ?>
 
 Je bent uitgelogd!  
   
  <?php
- include('footer.php');
+ include('system/footer.php');
  ?>
